@@ -2,7 +2,6 @@
 msnm=float(input("ingrese la altura sobre el nivel del mar"))
 c=float(input("ingrese la temperatura media anual"))
 
-
 if (msnm>=400 and msnm<=800):
     a=4 #   print("sumamente apto")
 elif (msnm<400 or (msnm>800 and msnm <=999)):
