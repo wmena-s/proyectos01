@@ -357,4 +357,3 @@ for i, j, k in zip(vectornuevovus, vectornuevovu, vectorNNN):
     print(vectornuevovus[cant], vectornuevovu[cant], vectorNNN[cant])
     cant = cant + 1
 
-"""SOLO HACE FALTA VERIFICAR QUE EL NUERO DE LOS DEPARTAMENTOS EN LAS FILAS AUMENTE"""
